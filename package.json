@@ -36,7 +36,7 @@
     "multimatch": "2.1.0",
     "opencollective": "1.0.3",
     "reflect-metadata": "0.1.12",
-    "source-map-support": "0.5.8",
+    "source-map-support": "0.5.19",
     "string-template": "1.0.0",
     "tslib": "1.9.3"
   },
