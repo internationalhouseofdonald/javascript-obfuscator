@@ -21,7 +21,7 @@
   },
   "types": "index.d.ts",
   "dependencies": {
-    "@babel/runtime": "7.0.0-rc.1",
+    "@babel/runtime": "7.12.13",
     "chalk": "2.4.1",
     "chance": "1.0.16",
     "class-validator": "0.9.1",
