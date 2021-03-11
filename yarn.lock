@@ -1876,9 +1876,10 @@ escape-string-regexp@1.0.5, escape-string-regexp@^1.0.2, escape-string-regexp@^1
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
 
-escodegen-wallaby@1.6.19:
-  version "1.6.19"
-  resolved "https://registry.yarnpkg.com/escodegen-wallaby/-/escodegen-wallaby-1.6.19.tgz#acd6bbd73f9270763e18570cdc13c0d694759a23"
+escodegen-wallaby@1.6.32:
+  version "1.6.32"
+  resolved "https://registry.yarnpkg.com/escodegen-wallaby/-/escodegen-wallaby-1.6.32.tgz#fb0ffeade4d792c0efe17bde4b142dee3a2090b0"
+  integrity sha512-HG2LhmhCUA57wQi97la3Qkm5d+Lkxh5FuxVi9ENmaSbaodrtRquHGapxCPk1gdRSDdhWzXoIC3d+j8Dpo/QkfA==
   dependencies:
     esprima "^2.7.1"
     estraverse "^1.9.1"
